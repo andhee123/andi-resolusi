@@ -2,5 +2,5 @@ ANDI - RESOLUSI
 - Konsisten di jalur front-end
 - Membuat web tanpa menggunakan framework
 - Membuat web menggunakan bootstrap
-- Membuat aplikasi to-do list
 - Kolaborasi dengan orang lain
+- Membuat vlog
