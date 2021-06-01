@@ -1,2 +1,2 @@
 # andi-resolusi
-Repositori untuk menyimpan rencanaku kedepannya
+Ini adalah repositori dimana saya belajar git & github di channel youtube web programming unpas
